@@ -1,0 +1,1 @@
+print ("----------\nAziz Academy\n----------")
