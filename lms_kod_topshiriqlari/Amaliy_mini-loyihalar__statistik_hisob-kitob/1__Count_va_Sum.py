@@ -1,0 +1,5 @@
+n = list(map(int, input().split()))
+c = len(n)
+s = sum(n)
+print(c)
+print(s)
