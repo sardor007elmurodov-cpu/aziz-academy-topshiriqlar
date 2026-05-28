@@ -1,0 +1,5 @@
+nums = list(map(int, input().split()))
+mean = sum(nums) / len(nums)
+r = max(nums) - min(nums)
+print(format(mean, ".2f"))
+print(r)
